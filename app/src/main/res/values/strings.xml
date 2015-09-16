@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Environment Checker</string>
+
+    <string name="hello_world">Choose from the options to check your environment</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ambient_label">Ambient Temperature</string>
+    <string name="light_label">Light</string>
+    <string name="pressure_label">Pressure</string>
+    <string name="humidity_label">Relative Humidity</string>
+    <string name="text_placeholder">-</string>
+</resources>
